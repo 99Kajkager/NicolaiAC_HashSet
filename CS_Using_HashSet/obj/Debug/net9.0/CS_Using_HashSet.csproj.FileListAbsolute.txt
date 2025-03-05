@@ -1,0 +1,14 @@
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net9.0\CS_Using_HashSet.exe
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net9.0\CS_Using_HashSet.deps.json
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net9.0\CS_Using_HashSet.runtimeconfig.json
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net9.0\CS_Using_HashSet.dll
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\bin\Debug\net9.0\CS_Using_HashSet.pdb
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\CS_Using_HashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\CS_Using_HashSet.AssemblyInfoInputs.cache
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\CS_Using_HashSet.AssemblyInfo.cs
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\CS_Using_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\CS_Using_HashSet.dll
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\refint\CS_Using_HashSet.dll
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\CS_Using_HashSet.pdb
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\CS_Using_HashSet.genruntimeconfig.cache
+C:\Users\Lilleput\RiderProjects\CS_Using_HashSet\CS_Using_HashSet\obj\Debug\net9.0\ref\CS_Using_HashSet.dll
